@@ -1,0 +1,45 @@
+.review-form {
+    padding: 25px;
+}
+
+.rating {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 250px;
+    float: left;
+}
+  
+.rating input {
+    display: none;
+}
+  
+.rating label:hover,
+.rating label:hover ~ label { 
+    color: yellow;
+}
+  
+.rating input:checked ~ label {
+    color: yellow;
+}
+  
+.comment {
+    margin-bottom: 60px;
+    position: relative;
+    left: 50px;
+}
+  
+.comment textarea {
+    width: 20%;
+    height: 200px;
+    resize: none;
+    border-color: white;
+    font-size: 30px;
+}
+header {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(134, 207, 219);
+    background-color: white;
+    height: 40px;
+}

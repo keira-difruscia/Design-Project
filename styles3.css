@@ -1,0 +1,28 @@
+h2 {
+    color: white;
+}
+p {
+    color: white;
+}
+.acropolisside {
+    position: relative;
+    left: 700px;
+    top: -170px;
+}
+.paros {
+    position: relative;
+    left: 700px;
+    top: -170px;
+}
+.Astros {
+    position: relative;
+    left: 700px;
+    top: -170px;
+}
+hr {
+    color: white;
+    position: relative;
+    top: 23px;
+    border: 1px solid white;
+    position: relative;
+    top: -20px;

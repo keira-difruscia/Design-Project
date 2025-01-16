@@ -1,0 +1,14 @@
+table {
+    color: white;
+    border-color: white;
+    position: relative;
+    left: 110px;
+    top: 75px;
+}
+header {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(134, 207, 219);
+    background-color: white;
+    height: 40px;
+}
